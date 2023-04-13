@@ -4,4 +4,4 @@ Front end build with react.js
 Back end build with django.
 Both run on separate server and connected. 
 
-Wow it working !!!
+Wow it working !!
